@@ -10,7 +10,7 @@ This plugin sets different properties and values in *-Info.plist file
 * `remote-notification`
 * `audio`
 
-`UIBackgroundModes`
+`IOS Description`
 * `Geolocation`
 ## Installation
 
